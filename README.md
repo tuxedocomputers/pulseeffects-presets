@@ -16,4 +16,7 @@ If you can't find a preset for your particular TUXEDO laptop it might be worth t
 * Pulse 15 => BA 15
 * InfinityBook S15 Gen6 => Aura 15
 
+### Special preset "Normal.json"
+Normal.json is a "zero" preset without any effects to simply reset every as it would be without having PulseEffects running.
+
 Also checking [this collection](https://github.com/wwmm/pulseeffects/wiki/Community-presets) could be useful to get things started.
