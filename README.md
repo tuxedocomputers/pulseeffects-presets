@@ -11,7 +11,7 @@ For more details here is an in-depth description and explanation. [LINK]()
 This repository is dedicated to any TUXEDO laptop ever produced and should be considered as a collection spot for user contributions. If you are using PulseEffects and have a special preset for your TUXEDO laptop help other users by sharing it.
 
 ### Presets for multiple models
-If you can't find a preset for your particular TUXEDO laptop it might be worth to try one from a different model. Know "multi presets" are:
+If you can't find a preset for your particular TUXEDO laptop it might be worth to try one from a different model. Known "multi presets" are:
 
 * Pulse 15 => BA 15
 * InfinityBook S15 Gen6 => Aura 15
