@@ -1,5 +1,5 @@
 # TUXEDO PulseEffects Presets
-## Collection of community-made presets for [PulseEffects](https://github.com/wwmm/pulseeffects) tailored for TUXEDO laptops.
+Collection of community-made presets for [PulseEffects](https://github.com/wwmm/pulseeffects) tailored for TUXEDO laptops.
 
 ![](screenshot-pulseeffects.png)
 
