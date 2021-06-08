@@ -17,7 +17,7 @@ If you can't find a preset for your particular TUXEDO laptop it might be worth t
 * InfinityBook S15 Gen6 => Aura 15
 
 ### Special preset "Normal.json"
-Normal.json is a "zero" preset without any effects to simply reset every as it would be without having PulseEffects running.
+Normal.json is a "zero" preset without any effects to simply reset every filter as it would be without having PulseEffects running. So to compare the sound profile of a given preset with the standard output of the notebook, you can easily switch between the preset you are testing and the "zero" preset.
 
 ### Even more community presets
 Checking [this collection](https://github.com/wwmm/pulseeffects/wiki/Community-presets) could be useful to get things started for you, especially if you don't want to play around too much.
