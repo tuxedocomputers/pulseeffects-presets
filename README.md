@@ -13,8 +13,8 @@ This repository is dedicated to any TUXEDO laptop ever produced and should be co
 ### Presets for multiple models
 If you can't find a preset for your particular TUXEDO laptop it might be worth to try one from a different model. Known "multi presets" are:
 
-* Pulse 15 => BA 15
-* InfinityBook S15 Gen6 => Aura 15
+* Pulse 15 => BA15
+* InfinityBook S 15 Gen6 => Aura 15
 
 ### Special preset "Normal.json"
 Normal.json is a "zero" preset without any effects to simply reset every filter as it would be without having PulseEffects running. So to compare the sound profile of a given preset with the standard output of the notebook, you can easily switch between the preset you are testing and the "zero" preset.
